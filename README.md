@@ -5,4 +5,4 @@
 ![Python version](https://img.shields.io/badge/Python-3.5%2F3.8-blue)
 ![Code Quality](https://img.shields.io/scrutinizer/quality/g/axel7083/tangram-solver)
 
-This project has been made in collaboration with [Wazzabeee](https://github.com/Wazzabeee). This program allow an user to build a geometrie, then submit it to an algorithm which is going to recreate it with the same shape as you.
+This project has been made in collaboration with [Wazzabeee](https://github.com/Wazzabeee). This program allows you to build a geometric figure, then submit to our AI who will then reform the figure with the forms available to him.
